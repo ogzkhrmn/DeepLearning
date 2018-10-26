@@ -3,7 +3,8 @@
 int main()
 {
 	int i;
-	cout << "program basladi" << endl;
+	cout << "Program Started" << endl;
+	cout << "1 - Train\n2 - Find Letter" << endl;
 	cin >> i;
 	Calculator calculator;
 	if (i == 1)
