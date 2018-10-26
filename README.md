@@ -4,7 +4,7 @@ I used this inputs for training system.
 
 '#' --> 1
 
-'.' --> 0
+'.' --> -1
 
 You should give inputs one by one and row row.
 
